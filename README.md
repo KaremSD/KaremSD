@@ -42,14 +42,15 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,postgres,github,gitlab,vscode,visualstudio,windows,aws,react,linux,vercel,bitbucket" 
-
- </p>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,postgres,github,gitlab,vscode,visualstudio,windows,aws,react,linux,vercel,bitbucket" alt="Skills and tools" />
+</p>
 
 <hr>
-<div style="display: flex;">
-    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karem-Mounir-Saad&show_icons=true&locale=en&layout=compact&theme=radical" alt="karemsd" /></p>
-    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Karem-Mounir-Saad&show_icons=true&locale=en&theme=radical" alt="karemsd" /></p>
-</div>
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<p align="center">
+    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KaremSD&layout=compact&theme=radical" alt="KaremSD top languages" />
+    <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=KaremSD&show_icons=true&theme=radical" alt="KaremSD GitHub stats" />
+</p>
+
 
 

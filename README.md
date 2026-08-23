@@ -36,7 +36,7 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <a href="https://linkedin.com/in/karem-saad-881081225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
 <a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
 </p>
-<h3 align="left">My Resume : <a href="https://beige-meggy-67.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3>
+<!-- <h3 align="left">My Resume : <a href="https://beige-meggy-67.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3> -->
 
 
 <hr>
@@ -51,6 +51,5 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
     <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KaremSD&layout=compact&theme=radical" alt="KaremSD top languages" />
     <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=KaremSD&show_icons=true&theme=radical" alt="KaremSD GitHub stats" />
 </p>
-
 
 
